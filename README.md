@@ -1,4 +1,4 @@
-# my-app-sphere
+# vue-sphere-menu
 
 ## Project setup
 ```
